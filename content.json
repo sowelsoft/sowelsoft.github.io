@@ -1,0 +1,106 @@
+{
+  "site": {
+    "name": "SowèlSoft",
+    "tagline": "Web & App Development",
+    "whatsapp": "6281234567890",
+    "waMessage": "Halo, saya ingin konsultasi pembuatan website/aplikasi.",
+    "github": "https://github.com/username",
+    "linkedin": "https://linkedin.com/in/username"
+  },
+  "hero": {
+    "title": "Web & App Development untuk Bisnis yang Ingin",
+    "highlight": "Bekerja Lebih Efisien",
+    "text": "Saya membantu UMKM dan perusahaan membuat website, dashboard, dan aplikasi internal sesuai kebutuhan bisnis Anda — dari yang sederhana hingga kompleks.",
+    "cta1": "Konsultasi Gratis",
+    "cta2": "Lihat Portfolio",
+    "note": "Custom sesuai kebutuhan bisnis Anda"
+  },
+  "services": {
+    "label": "Layanan",
+    "title": "Solusi Digital untuk Berbagai Kebutuhan",
+    "text": "Kami menyediakan layanan pengembangan website dan aplikasi dengan teknologi modern dan proses yang terstruktur.",
+    "items": [
+      { "icon": "🌐", "color": "#2563eb", "title": "Website", "text": "Company profile, landing page, atau website bisnis." },
+      { "icon": "🗂️", "color": "#10b981", "title": "Web Application", "text": "Sistem bisnis, inventory, CRM, dan lainnya." },
+      { "icon": "📊", "color": "#8b5cf6", "title": "Dashboard", "text": "Monitoring, laporan, visualisasi data." },
+      { "icon": "📱", "color": "#f59e0b", "title": "Mobile App", "text": "Aplikasi Android/iOS (React Native / Cordova)." },
+      { "icon": "🔗", "color": "#ef4444", "title": "API Integration", "text": "Integrasi dengan sistem lain, payment, WhatsApp, dll." },
+      { "icon": "🛠️", "color": "#64748b", "title": "Maintenance", "text": "Perbaikan, pengembangan fitur, dan support." }
+    ]
+  },
+  "portfolio": {
+    "label": "Portfolio",
+    "title": "Project yang Pernah Dikerjakan",
+    "text": "Beberapa contoh project yang pernah saya kerjakan dengan fokus pada kebutuhan bisnis dan efisiensi proses kerja.",
+    "linkText": "Lihat Semua Project",
+    "linkUrl": "#",
+    "items": [
+      {
+        "title": "Document Management System",
+        "text": "Sistem untuk mengelola dokumen dan proses approval secara terstruktur.",
+        "image": "",
+        "color": "#1e3a8a",
+        "features": ["Upload & management dokumen", "Approval workflow", "Digital signature & QR verification", "Permission by company/division"],
+        "tech": ["PHP", "Bitrix ORM", "MySQL"]
+      },
+      {
+        "title": "Aplikasi Reporting Teknisi",
+        "text": "Aplikasi mobile untuk teknisi di lapangan membuat laporan pekerjaan.",
+        "image": "",
+        "color": "#0ea5e9",
+        "features": ["Input pekerjaan & reporting", "Data equipment", "Dokumentasi pekerjaan", "Sinkronisasi data"],
+        "tech": ["Cordova", "JavaScript", "PHP"]
+      },
+      {
+        "title": "Custom CRM & Business Application",
+        "text": "Sistem CRM dengan fitur sales, customer, reporting, dan approval workflow.",
+        "image": "",
+        "color": "#4f46e5",
+        "features": ["Customer management", "Sales & reporting", "Approval workflow", "Dashboard & automation"],
+        "tech": ["PHP", "CodeIgniter", "MySQL"]
+      },
+      {
+        "title": "Dashboard & Internal System",
+        "text": "Dashboard untuk monitoring dan pengelolaan data internal perusahaan.",
+        "image": "",
+        "color": "#0f766e",
+        "features": ["Data visualization", "Manajemen user & role", "Laporan dan export", "Integrasi dengan sistem lain"],
+        "tech": ["Laravel", "React", "MySQL"]
+      }
+    ]
+  },
+  "why": {
+    "label": "Kenapa Saya?",
+    "title": "Komitmen untuk Hasil Terbaik",
+    "items": [
+      { "icon": "🎯", "title": "Custom sesuai kebutuhan", "text": "Setiap project disesuaikan dengan alur bisnis Anda." },
+      { "icon": "💬", "title": "Komunikasi langsung", "text": "Bisa diskusi langsung dengan developer, tanpa perantara." },
+      { "icon": "💡", "title": "Fokus pada kebutuhan bisnis", "text": "Bukan hanya soal teknis, tapi juga solusi untuk bisnis Anda." },
+      { "icon": "🛡️", "title": "Support setelah project", "text": "Bantuan jika ada kendala atau pengembangan fitur." }
+    ],
+    "techTitle": "Teknologi yang Saya Gunakan",
+    "techText": "Menggunakan teknologi modern yang stabil, aman, dan mudah dikembangkan.",
+    "tech": ["PHP", "Laravel", "React", "MySQL", "CodeIgniter", "JavaScript", "Bitrix24", "Ubuntu/CentOS"]
+  },
+  "pricing": {
+    "label": "Harga & Paket",
+    "title": "Harga Fleksibel Sesuai Kebutuhan",
+    "text": "Berikut adalah estimasi harga untuk beberapa layanan yang paling umum. Harga dapat disesuaikan dengan fitur dan kompleksitas project.",
+    "items": [
+      { "title": "Landing Page", "text": "Website sederhana untuk promosi bisnis Anda.", "price": "Rp 1.500.000", "note": "" },
+      { "title": "Company Profile", "text": "Website profesional dengan informasi lengkap.", "price": "Rp 2.500.000", "note": "" },
+      { "title": "Custom Web App", "text": "Sistem bisnis / aplikasi internal sesuai kebutuhan.", "price": "Rp 3.000.000", "note": "(harga menyesuaikan fitur)" }
+    ],
+    "customTitle": "Butuh solusi khusus?",
+    "customText": "Ceritakan kebutuhan Anda, saya akan bantu berikan penawaran terbaik.",
+    "customCta": "Hubungi Saya"
+  },
+  "cta": {
+    "title": "Punya kebutuhan website atau aplikasi?",
+    "text": "Yuk, diskusi dulu. Konsultasi gratis tanpa biaya.",
+    "button": "Hubungi Saya di WhatsApp"
+  },
+  "footer": {
+    "copyright": "© 2025 SowèlSoft. All rights reserved."
+  }
+}
